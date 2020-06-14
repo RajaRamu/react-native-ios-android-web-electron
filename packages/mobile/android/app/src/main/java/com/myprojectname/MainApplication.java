@@ -1,4 +1,4 @@
-package com.myprojectname;
+package com.dmtfrontend;
 
 import android.app.Application;
 import android.content.Context;
